@@ -1,0 +1,13 @@
+First way: Python
+python -m venv myevn 
+myenv\Scrips\activate
+pip install numpy
+Second way: Linux
+pip install virtualenv
+virtualenv -p pythone 3 virtual_env
+virtual_env\Scripts\activate
+Third way: conda
+conda create -p venv python==3.12 -y(automatic)
+conda active venv
+
+ipykernel
