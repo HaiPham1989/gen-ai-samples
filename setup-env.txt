@@ -10,4 +10,5 @@ Third way: conda
 conda create -p venv python==3.12 -y(automatic)
 conda active venv
 
-ipykernel
+nltk->error
+nltk.download('all')
