@@ -11,3 +11,4 @@ gensim
 tensorflow
 tensorboard
 scikeras
+nltk
